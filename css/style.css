@@ -4367,6 +4367,9 @@ body.body--mobile-nav-open {
   max-width: 360px;
   margin: 0 10px 0 10px;
 }
+.five-ways__panel a {
+  text-decoration: none;
+}
 @media (min-width: 576px) {
   .five-ways__panel {
     height: 490px;
